@@ -1,0 +1,16 @@
+'use strict';
+
+//TODO need to fill valit values
+const SECRET_KEY = '';
+const APP_ID = '';
+
+const MOMLIFE_API_HOST = 'https://kernel.mom.life';
+
+const ADMIN_USERS = ['5714e0a0853983a7568b4568'];
+
+module.exports = {
+    APP_ID,
+    SECRET_KEY,
+    MOMLIFE_API_HOST,
+    ADMIN_USERS
+};
